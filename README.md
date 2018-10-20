@@ -5,7 +5,7 @@ This is the C# console application prints the assembly reference in an applicati
 
 
 ```
->AssemblyDependencyChecker.exe "C:\Program Files (x86)\MS"
+>AssemblyDependencyChecker.exe "C:\Program Files (x86)\TestApp\"
  
  ```
  
